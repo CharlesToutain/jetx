@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby multiple language starter`,
-    description: `A simple but feature rich starter boilerplate for creating a multi-language Gatsby website (Internationalization / i18n) without third party plugins or packages and also focused on SEO. This starter also contains other main Gatsby configurations you might need.`,
+    title: `Deviens riche avec le jeu CBET JETX`,
+    description: `JETX est le JEU du MOMENT qui te permet de gagner de l'argent ! Avec JETX deviens riche rapidement en t'amusant. Utilise ma statégie pour gagner de l'argent sur JETX`,
     author: `@diogorodrigues`,
-    siteUrl: `https://iceberg-gatsby-multilang.netlify.com/`,
+    siteUrl: `https://www.jetxcbet.com`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,

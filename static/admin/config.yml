@@ -1,9 +1,8 @@
 backend:
-    #name: github # Local
-    name: git-gateway # Prod
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    name: github 
+    repo: CharlesToutain/jetx
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
+    site_domain: https://jetxcbet.com
     
 
 publish_mode: editorial_workflow
